@@ -1,0 +1,47 @@
+                   precision    recall  f1-score   support
+
+         Alambadi       0.78      0.74      0.76        19
+       Amritmahal       0.56      0.59      0.57        17
+         Ayrshire       0.75      0.72      0.73        50
+            Banni       0.70      0.48      0.57        29
+           Bargur       0.81      0.87      0.84        15
+        Bhadawari       0.67      0.47      0.55        17
+      Brown_Swiss       0.78      0.76      0.77        38
+            Dangi       0.85      0.79      0.81        14
+            Deoni       0.88      0.78      0.82        18
+              Gir       0.83      0.76      0.79        83
+         Guernsey       0.46      0.57      0.51        23
+         Hallikar       0.52      0.56      0.54        39
+          Hariana       0.26      0.41      0.32        17
+Holstein_Friesian       0.84      0.78      0.81        60
+       Jaffrabadi       0.81      0.77      0.79        22
+           Jersey       0.63      0.67      0.65        39
+         Kangayam       0.57      0.54      0.55        24
+          Kankrej       0.69      0.74      0.71        34
+         Kasargod       0.56      0.59      0.57        17
+         Kenkatha       0.21      0.33      0.26         9
+        Kherigarh       0.50      0.18      0.27        11
+         Khillari       0.68      0.58      0.62        26
+   Krishna_Valley       0.54      0.76      0.63        25
+     Malnad_gidda       0.53      0.57      0.55        14
+          Mehsana       0.47      0.37      0.41        19
+           Murrah       0.51      0.67      0.58        43
+           Nagori       0.42      0.33      0.37        15
+          Nagpuri       0.39      0.39      0.39        41
+        Nili_Ravi       0.67      0.29      0.40        21
+           Nimari       0.52      0.65      0.58        17
+           Ongole       0.65      0.70      0.67        40
+        Pulikulam       0.58      0.64      0.61        33
+            Rathi       0.77      0.72      0.74        32
+         Red_Dane       0.48      0.47      0.47        30
+       Red_Sindhi       0.57      0.39      0.46        31
+          Sahiwal       0.70      0.90      0.79        80
+            Surti       0.20      0.22      0.21         9
+       Tharparkar       0.78      0.60      0.68        53
+             Toda       0.63      0.48      0.55        25
+       Umblachery       0.73      0.57      0.64        14
+           Vechur       0.56      0.78      0.65        23
+
+         accuracy                           0.64      1186
+        macro avg       0.61      0.59      0.59      1186
+     weighted avg       0.65      0.64      0.64      1186

@@ -1,0 +1,25 @@
+# Environment secrets — NEVER commit this
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Model weights (large files)
+*.pth
+*.pt
+*.onnx
+
+# Datasets — NEVER commit raw or formatted image data
+data/
+data_yolo/
+
+# Generated outputs
+*.pdf
+*.png
+runs/
+hard_negatives/
+temp_cam.jpg
+research_artifacts/
+

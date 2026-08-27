@@ -1,0 +1,20 @@
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch
+torchvision
+torchaudio
+pillow
+tqdm
+matplotlib
+scikit-learn
+pandas
+customtkinter
+grad-cam
+opencv-python
+seaborn
+tensorboard
+onnx
+onnxruntime
+fpdf2
+tkinterdnd2
+python-dotenv
+openai
